@@ -1,20 +1,20 @@
 # consultant-crm
 Many consultants keep customer info scattered across spreadsheets, emails, and sticky notes. This tool will:  Store customer contact info, Track purchases or project history, Allow follow-up scheduling and notes, Give a quick dashboard overview.
 
-## 📋 Overview
+##  Overview
 This is a lightweight client management tool built entirely with HTML, CSS, and JavaScript.  
 It is designed for **solo founders, consultants, and microbusiness owners** who need an easy way to store, search, and manage client information without paying for complex CRM software.
 
 The MVP runs entirely in the browser using `localStorage` — perfect for quick demos, proof-of-concept builds, and offline-first workflows.  
 
 **Key Features:**
-- 📇 Add, edit, and delete customer records
-- 🔍 Instant search by name, company, or email
-- 📅 Track next follow-up dates
-- 📊 Dashboard stats for customer count, upcoming follow-ups, and deals in negotiation
-- 📤 Export customer data to CSV
-- 📥 Import customer data from CSV (bulk add/update)
-- 🖌 Soft, modern UI aesthetic matching [Ashley Enjoli's](https://linkedin.com/in/ashley-enjoli) brand
+-  Add, edit, and delete customer records
+-  Instant search by name, company, or email
+-  Track next follow-up dates
+-  Dashboard stats for customer count, upcoming follow-ups, and deals in negotiation
+-  Export customer data to CSV
+-  Import customer data from CSV (bulk add/update)
+-  Soft, modern UI aesthetic
 
 ---
 
