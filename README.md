@@ -90,5 +90,5 @@ While this MVP uses localStorage, it’s **designed for a smooth migration to AW
 **Ashley Enjoli** — Small Business Consultant, Entrepreneur, and aspiring AWS Solutions Architect.  
 Passionate about building tools that help small business owners work smarter, not harder.  
 
-Connect on [LinkedIn](https://linkedin.com/in/ashley-enjoli) or view my [Portfolio](https://yourportfolio.link).
+Connect on [LinkedIn](https://linkedin.com/in/ashley-enjoli) or view my [Portfolio](https://ashleyenjoli.com).
 
